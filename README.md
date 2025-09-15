@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aayush Raj
+# 👋 Hi, I'm SUJAL PATIDAR
 
 🚀 Aspiring Software Engineer | 💻 B.Tech CSE (Software Engineering) @ SRM University  
 🔹 Passionate about C++, Java, Python, and problem-solving  
@@ -30,9 +30,9 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: [aayushr679@gmail.com](mailto:aayushr679@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/aayush-raj-0b3975318](https://linkedin.com/in/aayush-raj-0b3975318)  
-- 💻 GitHub: [github.com/aayush-raj2](https://github.com/aayush-raj2)
+- 📧 Email: [sujalpatidar465@@gmail.com](mailto:sujalpatidar465@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/sujal-patidar-5049182b9]
+- 💻 GitHub: 
 
 ---
 ⭐️ *If you like my projects, don’t forget to star them!*
