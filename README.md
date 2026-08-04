@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- ANIMATED RAINBOW HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,25:fb5607,50:ffbe0b,75:8338ec,100:3a86ff&height=220&section=header&text=Sujal%20Patidar&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=✨%20Software%20Developer%20%7C%20Code%20Artist%20%7C%20Dream%20Builder%20✨&descAlignY=62&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
